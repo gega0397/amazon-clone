@@ -12,22 +12,22 @@ function Home() {
                 alt="background"
                 />
                 <div className="home__row">
-                    <Product info = {"Baby shower"} price= {19.50} rating={3} img="https://m.media-amazon.com/images/I/714T+0jI-fL._AC_SL1500_.jpg"/>
-                    <Product info = {"Baby shower"}  price= {19.50} rating={3} img="https://m.media-amazon.com/images/I/714T+0jI-fL._AC_SL1500_.jpg"/>
+                    <Product info = {"Baby shower"} price= {19.50} rating={3} image="https://m.media-amazon.com/images/I/714T+0jI-fL._AC_SL1500_.jpg"/>
+                    <Product info = {"Baby shower"}  price= {19.50} rating={3} image="https://m.media-amazon.com/images/I/714T+0jI-fL._AC_SL1500_.jpg"/>
                 </div>
 
                 <div className="home__row">
                     {/* product */}
-                    <Product info = {"Baby shower"}  price= {19.50} rating={3} img="https://m.media-amazon.com/images/I/714T+0jI-fL._AC_SL1500_.jpg"/>
+                    <Product info = {"Baby shower"}  price= {19.50} rating={3} image="https://m.media-amazon.com/images/I/714T+0jI-fL._AC_SL1500_.jpg"/>
                     {/* product */}
-                    <Product info = {"Baby shower"}  price= {19.50} rating={3} img="https://m.media-amazon.com/images/I/714T+0jI-fL._AC_SL1500_.jpg"/>
+                    <Product info = {"Baby shower"}  price= {19.50} rating={3} image="https://m.media-amazon.com/images/I/714T+0jI-fL._AC_SL1500_.jpg"/>
                     {/* product */}
-                    <Product info = {"Baby shower"}  price= {19.50} rating={3} img="https://m.media-amazon.com/images/I/714T+0jI-fL._AC_SL1500_.jpg"/>
+                    <Product info = {"Baby shower"}  price= {19.50} rating={3} image="https://m.media-amazon.com/images/I/714T+0jI-fL._AC_SL1500_.jpg"/>
                 </div>
 
                 <div className="home__row">
                     {/* product */}
-                    <Product info = {"Baby shower"}  price= {19.50} rating={3} img="https://m.media-amazon.com/images/I/714T+0jI-fL._AC_SL1500_.jpg"/>
+                    <Product info = {"Baby shower"}  price= {19.50} rating={3} image="https://m.media-amazon.com/images/I/714T+0jI-fL._AC_SL1500_.jpg"/>
                 </div>
 
             </div>
